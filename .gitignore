@@ -22,7 +22,6 @@ debug
 *.test
 
 ### Coverage output ###
-*.out
 *.coverprofile
 fmtcoverage.html
 cover.html
