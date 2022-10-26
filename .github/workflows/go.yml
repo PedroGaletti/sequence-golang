@@ -24,3 +24,8 @@ jobs:
 
     - name: Test
       run: make coverage
+
+    - name: Upload coverage reports to Codacy
+      run: |
+        bash <(curl -Ls https://coverage.codacy.com/get.sh) report \
+        --force-coverage-parser go -r cover.out
