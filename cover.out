@@ -61,11 +61,6 @@ challenge/utils/matrix.go:163.15,164.9 1 1
 challenge/utils/matrix.go:172.89,186.2 4 1
 challenge/db/mysql.go:13.80,17.2 2 1
 challenge/db/mysql.go:19.27,22.2 1 1
-challenge/cmd/sequence/dependency.go:14.56,23.2 3 1
-challenge/cmd/sequence/repository.go:23.61,25.2 1 1
-challenge/cmd/sequence/repository.go:28.62,30.2 1 1
-challenge/cmd/sequence/repository.go:33.60,39.2 3 1
-challenge/cmd/sequence/routes.go:8.68,11.2 2 1
 challenge/cmd/sequence/controller.go:29.80,31.2 1 1
 challenge/cmd/sequence/controller.go:34.72,37.47 2 1
 challenge/cmd/sequence/controller.go:45.2,45.31 1 1
@@ -83,3 +78,8 @@ challenge/cmd/sequence/controller.go:71.36,74.4 2 0
 challenge/cmd/sequence/controller.go:84.37,85.23 1 1
 challenge/cmd/sequence/controller.go:85.23,87.4 1 1
 challenge/cmd/sequence/controller.go:87.9,89.4 1 1
+challenge/cmd/sequence/dependency.go:14.56,23.2 3 1
+challenge/cmd/sequence/repository.go:23.61,25.2 1 1
+challenge/cmd/sequence/repository.go:28.62,30.2 1 1
+challenge/cmd/sequence/repository.go:33.60,39.2 3 1
+challenge/cmd/sequence/routes.go:8.68,11.2 2 1
