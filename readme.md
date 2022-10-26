@@ -3,7 +3,7 @@
 This project is an API REST and the is challenge to find the sequence of letters inside of matrix.
 
 ![build](https://img.shields.io/github/workflow/status/PedroGaletti/sequence-golang/challenge)
-[![codecov](https://codecov.io/gh/PedroGaletti/sequence-golang/branch/main/graph/badge.svg?token=FGZ8RTM126)](https://codecov.io/gh/PedroGaletti/sequence-golang)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/64d186dc7303490ebf1c778059c59a49)](https://www.codacy.com/gh/PedroGaletti/sequence-golang/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PedroGaletti/sequence-golang&amp;utm_campaign=Badge_Grade)
 ![Thumbnail](./assets/sequence.png)
 
 ## Stack
