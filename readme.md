@@ -32,11 +32,11 @@ Variable                | Type    | Description                       | Default
 ----------------------- | ------- | --------------------------------- | ------------------------
 GIN_MODE                | string  | Interval time of the cron         | debug
 LOG_LEVEL               | string  | Leveled Logging                   | info
-SQL_DB                  | string  | Leveled Logging                   | challenge
-SQL_HOST                | string  | Leveled Logging                   | 127.0.0.1
-SQL_PASSWORD            | string  | Leveled Logging                   | root
-SQL_PORT                | string  | Leveled Logging                   | 3308
-SQL_USER                | string  | Leveled Logging                   | root
+SQL_DB                  | string  | Database                          | challenge
+SQL_HOST                | string  | Database Host                     | 127.0.0.1
+SQL_PASSWORD            | string  | Database Password                 | root
+SQL_PORT                | string  | Database Port                     | 3308
+SQL_USER                | string  | Database user                     | root
 ```
 
 
