@@ -3,8 +3,6 @@ install:
 	@go get
 	@echo "Validating dependecies..."
 	@go mod tidy
-	@echo "Creating vendor..."
-	@go mod vendor
 	@echo "Installation completed successfully."
 
 build:
@@ -25,7 +23,6 @@ run:
 
 clean:
 	@echo "Cleaning up project..."
-	@rm -rf ./vendor
 	@rm -rf ./go.sum
 	@rm -rf ./challenge
 	@echo "Project cleaned successfully."
